@@ -1,0 +1,19 @@
+# Large model artifacts - not committed, see README for access
+*.har
+*.hef
+*.npy
+*.onnx
+calib_set.npy
+
+# Test media
+*.mp4
+*.avif
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
